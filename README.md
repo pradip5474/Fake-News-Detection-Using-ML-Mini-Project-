@@ -58,7 +58,21 @@ You can download the dataset from this Google Drive folder:
 ---
 
 ## 🔍 Example Output
-![Uploading image.png…]()
+Fake News Shape: (1529, 4)
+True News Shape: (1575, 4)
+
+--- Classification Report ---
+              precision    recall  f1-score   support
+
+           0       0.91      0.03      0.06       324
+           1       0.49      1.00      0.65       297
+
+    accuracy                           0.49       621
+   macro avg       0.70      0.51      0.36       621
+weighted avg       0.71      0.49      0.34       621
+
+Accuracy: 0.49
+
 
 ---
 
