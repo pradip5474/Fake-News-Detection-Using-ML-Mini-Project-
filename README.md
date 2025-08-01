@@ -58,11 +58,7 @@ You can download the dataset from this Google Drive folder:
 ---
 
 ## 🔍 Example Output
-
-       0       0.98      0.97      0.97      1782
-       1       0.97      0.98      0.97      1820
-
-accuracy                           0.97      3602
+![Uploading image.png…]()
 
 ---
 
